@@ -1,7 +1,7 @@
 ## Setup Environment 
 ```
 mkdir Improve
-cd streamlit proyek
+cd streamlit_proyek
 pipenv install
 pipenv shell
 pip install -r requirements.txt
