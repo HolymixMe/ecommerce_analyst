@@ -6,7 +6,7 @@ import seaborn as sns
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("D:\\main_data.csv")
+    df = pd.read_csv("main_data.csv")
     return df
 
 # Visualisasi data untuk mengetahui persebaran kawasan dari pembeli
